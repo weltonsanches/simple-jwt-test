@@ -1,7 +1,4 @@
 <h1 align="center">Welcome to Simple JWT Test 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/npm/v/Simple JWT Test.svg">
-</p>
 
 ## Install
 
